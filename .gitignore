@@ -1,13 +1,4 @@
+build/
+out/
+test/
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-*.swp
-*.swo
-__pycache__/
-*.pyc
-.env
-.idea/
-.vscode/
-
